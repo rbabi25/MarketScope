@@ -1,0 +1,2 @@
+to create virtual environment run the code in cmd "python -m venv venv_market_scope"
+then run to activate do this every time when working on this "venv_market_scope\Scripts\activate"
